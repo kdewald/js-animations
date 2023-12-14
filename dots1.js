@@ -1,4 +1,4 @@
-const canvas = document.getElementById('lightDotsCanvas');
+const canvas = document.getElementById('DotsCanvas');
 const ctx = canvas.getContext('2d');
 
 canvas.width = window.innerWidth;
